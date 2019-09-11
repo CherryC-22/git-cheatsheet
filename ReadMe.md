@@ -1,6 +1,9 @@
-# ReadMe.md
+# Git Cheat Sheet
+## ReadMe.md
 
 This is my git cheat sheet.
+
+Please feel free the give feedback with corrections and additions
 
 ## git commands
 
@@ -30,40 +33,9 @@ git commit -m "MESSAGE"
 - commits the stashed files to the repo, and adds
 the MESSAGE that describes what was done
 
-```bash
-git log
-```
-- show a history of the commits made to this point in time.
-
-```bash
-git log --all --decorate --oneline --graph
-```
--displays a 'graph' of commits, one commit per line
-
-```bash
-git config --global alias.adog "log --all --decorate --oneline --graph"
-```
-- creates a git alias for the log all decorate online graph command.
-- use this alias by enetering 'git adog' (much shorter)
-
-```bash
-git remote add origin URI
-```
-- assign the remote "origin" repository to the URI given
-- replace URI 
-
-```bash
-git push -u origin master
-```
-- Push the commited changes up to the "origin"
-
 
 ## Other Git Things
 
-**.gitignore** is a file that tells git files/folders that are
+***.gitignore** is a file that tells git files/folders that are
 not to be part of the repository (that is -ignored when 
 adding/committing)
-
-Comprehensive .gitignore found at:
-[
-(https://github.com/github/gitignore/blob/master/Python.gitignore) 
