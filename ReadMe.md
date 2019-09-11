@@ -2,6 +2,11 @@
 
 This is my git cheat sheet.
 
+<<<<<<< HEAD
+=======
+Please feel free the give feedback with corrections and additions.
+
+>>>>>>> 2967604a83bbe42f8d7be56f0f1e59cafa26284e
 ## git commands
 
 ```bash
