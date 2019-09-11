@@ -1,6 +1,9 @@
-# ReadMe.md
+# Git Cheat Sheet
+## File: ReadMe.md
 
-This is my git cheat sheet.
+This is my `git` cheat sheet. It's my **first** cheat sheet!
+
+Please feel free to give feedback with corrections and additions.
 
 ## git commands
 
@@ -44,7 +47,7 @@ git log --all --decorate --oneline --graph
 git config --global alias.adog "log --all --decorate --oneline --graph"
 ```
 - creates a git alias for the log all decorate online graph command.
-- use this alias by enetering 'git adog' (much shorter)
+- use this alias by enetering `git adog` (much shorter)
 
 ```bash
 git remote add origin URI
