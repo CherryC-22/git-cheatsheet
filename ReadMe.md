@@ -3,7 +3,7 @@
 
 This is my git cheat sheet.
 
-Please feel free the give feedback with corrections and additions
+Please feel free the give feedback with corrections and additions.
 
 ## git commands
 
